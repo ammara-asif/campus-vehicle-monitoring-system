@@ -36,16 +36,6 @@ CVMS/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-### Dataset Setup
-
-1. Place single-slot parking images under `data/parking_slots/empty/` and
-   `data/parking_slots/filled/`
-2. Place license plate images under `data/license_plates/`
-3. Campus feed footage goes under `data/campus_feed/` once available
-
 ---
 ## Installation
 
