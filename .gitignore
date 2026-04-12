@@ -1,2 +1,13 @@
+.cache
+
+#datasets
 data
 parking-data
+*.mp4
+
+#venv
+.venv
+cv
+
+#model
+*.pt
